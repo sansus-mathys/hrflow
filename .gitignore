@@ -1,0 +1,5 @@
+/hrflow_frontend/dist
+/hrflow_frontend/node_modules
+/hrflow_frontend/.angular/cache
+
+.vs/
